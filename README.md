@@ -38,8 +38,10 @@ Setup Steps:
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/anuragtiwari8006-dev/Anurag-Tiwari-AI-ML-Vityarthi-Project/tree/main
-cd Anurag-Tiwari-AI-ML-Vityarthi-Project
+git clone:https://github.com/hradaysingh43/AIML-VITYARTHI-PROJECT/tree/main
+cd:AIML-VITYARTHI-PROJECT
+
+
 ```
 
 2. Install Dependencies
